@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+      "nodejs": "20.9.9",
+      "babel": "7.23.2"
+      }
+}
